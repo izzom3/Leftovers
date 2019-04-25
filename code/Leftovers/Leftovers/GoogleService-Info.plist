@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>260538122388-94v9v20u7lsua9b8t5sm58lijl6n3d4r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.260538122388-94v9v20u7lsua9b8t5sm58lijl6n3d4r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkP2z-P51TkOyLvb3wsx67NtJQVkW6VTI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260538122388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>paul5345.Leftovers</string>
+	<key>PROJECT_ID</key>
+	<string>leftovers-f51c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leftovers-f51c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260538122388:ios:6695d1779bd1158f</string>
+	<key>DATABASE_URL</key>
+	<string>https://leftovers-f51c1.firebaseio.com</string>
+</dict>
+</plist>
